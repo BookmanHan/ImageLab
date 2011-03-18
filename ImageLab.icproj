@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="gb2312"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="ImageLab"
+	ProjectGUID="{1DEBB666-8ACE-4277-884E-14C8390F4C1F}"
+	VCNestedProjectGUID="{2014AEC2-801B-4078-AFC7-10219F37E6DA}"
+	VCNestedProjectFileName="ImageLab.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>
